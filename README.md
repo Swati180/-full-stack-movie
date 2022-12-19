@@ -1,7 +1,7 @@
 # full-statck-movie
 </br>
 
-### Tch-Stack: Html Css Javascript NodeJs ,Express Sql Mongodb
+### Tech-Stack: Html Css Javascript NodeJs ,Express Sql Mongodb
 
 <hr>
 
