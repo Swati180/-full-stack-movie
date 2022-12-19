@@ -5,11 +5,7 @@
 
 <hr>
 
-## About
 
-</br>
-Basically it is my first full stack application 
-</br>
 <hr>
 <hr>
 <br>
